@@ -1,0 +1,19 @@
+{
+  "name": "encryption",
+  "version": "1.0.0",
+  "description": "School project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "encryption"
+  },
+  "author": "Raphael Käser",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
