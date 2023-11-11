@@ -1,5 +1,9 @@
 /symmetric/text.txt 
 /asymmetric/text.txt
 /node_modules
+/sign/text.txt
+/sign/public.pem
+/sign/private.pem
 /asymmetric/private.pem
 /asymmetric/public.pem
+/sign/sign.txt
