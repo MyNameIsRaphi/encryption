@@ -20,7 +20,7 @@ is that the asymmetric encryption is only meant to be encrypted with a public ke
     npm i
 ### How to use
 
-All file paths entered must be relative to the "symmetric" inside the installation folder
+All file paths entered are relative to the folder in which the application is executed from 
 #### Symmetric encryption
 - Navigate into the extracted folder 
 - To encrypt a file run 
